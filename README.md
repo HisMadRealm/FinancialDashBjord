@@ -23,3 +23,17 @@ A comprehensive financial dashboard built using Python, Dash, and Plotly to trac
    ```bash
    git clone https://github.com/your-username/financial-dashboard.git
    cd financial-dashboard
+API Keys
+
+To fetch real-time data, you need API keys for the following:
+	•	Alpha Vantage: Get an API key
+	•	Binance: Get an API key
+	•	Fixer.io: Get an API key
+
+Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue to discuss changes or features you’d like to add.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
